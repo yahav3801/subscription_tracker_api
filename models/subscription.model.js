@@ -29,7 +29,7 @@ const subscriptionSchema = new mongoose.Schema(
       enum: [
         "sports",
         "news",
-        "entretainment",
+        "entertainment",
         "lifestyle",
         "technology",
         "finance",
